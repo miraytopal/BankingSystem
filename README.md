@@ -1,10 +1,10 @@
 
 # BANKING SYSTEM -PYTHON OOP :snake:
 
-This is a banking system for handling some customer transactions.The system can be used by bank employees and bank customers.
+This is a banking system for handling some customer transactions. The system can be used by bank employees and bank customers.
 
-:unicorn: ***Here's some of the project's best features :***
-
+:unicorn: *Here's some of the project's best features :*
+--
 - This code ensures customer data privacy, which is one of the most important things in banking.
 - It has a user interface and a user authentication system.
 - Performs some checks during transactions
@@ -19,6 +19,7 @@ This is a banking system for handling some customer transactions.The system can 
  
 
  ***Here're topics used in this project created :***
+ --
  
   :key: OOP(Object oriented programming)
    - Inheritence(Single)
@@ -28,10 +29,12 @@ This is a banking system for handling some customer transactions.The system can 
      - Public methods
 
 ***How do I get set up?***
+--
 - Summary of set up get this repository by running the command below on your terminal
 ```
 $ git clone https://github.com/miraytopal/BankingSystem
 ```
 ***To Make The Code Work***
+--
 
 - Make sure you are using Python 3.0 version and after
