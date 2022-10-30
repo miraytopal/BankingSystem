@@ -3,16 +3,16 @@
 
 This is a banking system for handling some customer transactions. The system can be used by bank employees and bank customers.
 
-:unicorn: *Here's some of the project's best features :*
+:unicorn: *Here're some of the project's best features :*
 --
 - This code ensures customer data privacy, which is one of the most important things in banking.
 - It has a user interface and a user authentication system.
-- Performs some checks during transactions
- 1- Balance check when withdrawing and transferring money
- 2- The account to which the money is to be transferred is not its own account and it is a bank account registered in the system.
+- Performs certain checks during transactions
+  - Balance check when withdrawing and transferring money
+  - The account to which the money is to be transferred is not its own account and it is a bank account registered in the system.
 - Performs some checks while adding new customer
- 1- Whether the new customer to be added is already registered in the bank system
- 2- Whether the person who wants to add a new customer is an authorized bank employee for this transaction.
+  - Whether the new customer to be added is already registered in the bank system
+  - Whether the person who wants to add a new customer is an authorized bank employee for this transaction.
  
  
 ![Banking System (1)](https://user-images.githubusercontent.com/75898277/192066382-c03ba8a1-aed7-46ca-8f5a-b2af01f774c9.jpg)
