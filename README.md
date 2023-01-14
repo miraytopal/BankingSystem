@@ -1,10 +1,12 @@
 
 # BANKING SYSTEM -PYTHON OOP :snake:
+This is a banking system for handling some customer transactions. The system can be used by bank employees and bank customers. <br />
+&nbsp;
 
-This is a banking system for handling some customer transactions. The system can be used by bank employees and bank customers.
 
-:unicorn: *Here're some of the project's best features :*
+:unicorn: **Here're some of the project's best features :**
 --
+
 - This code ensures customer data privacy, which is one of the most important things in banking.
 
 - It has a user interface and a user authentication system.
